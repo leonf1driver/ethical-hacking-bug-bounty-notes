@@ -1,0 +1,2 @@
+
+🎯 Program: SFS Group Schweiz AG **ID:** F9MI8HXQ **Startdatum:** {{date}} **Status:** 🟠 Hunting ## 📋 Scope Checklist - [ ] https://www.sfs.com (Tier 1) - [ ] https://datatrans.sfs-dev.biz (Tier 2) - [ ] *.sfs-dev.biz (Tier 3) ## 🛠 Gebruikte Tools - Browser (Manual) - Burp Suite / OWASP ZAP - Obsidian (Reporting)
