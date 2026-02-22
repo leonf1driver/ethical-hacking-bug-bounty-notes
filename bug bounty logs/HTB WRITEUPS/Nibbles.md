@@ -28,8 +28,8 @@ status: Rooted ✅
 
 | Flag | Hash |
 |------|------|
-| **User** | `79c03865431abf47b90ef24b9695e148` |
-| **Root** | `[JOUW ROOT FLAG]` |
+| **User** | `----------------------` |
+| **Root** | `----------------------` |
 
 ---
 
@@ -330,5 +330,5 @@ drwxr-xr-x 3 nibbler nibbler 4096 Dec 10  2017 ..
 # ls
 root.txt
 # cat root.txt
-de5e5d6619862a8aa5b9b212314e0cdd
+-----------------------
 # 
