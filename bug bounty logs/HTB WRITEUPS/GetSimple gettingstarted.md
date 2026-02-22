@@ -80,8 +80,8 @@ admin admin credentials
 
 | Flag | Hash |
 |------|------|
-| **User** | `7002d65b149b0a4d19132a66feed21d8` |
-| **Root** | `f1fba6e9f71efb2630e6e34da6387842` |
+| **User** | `----------` |
+| **Root** | `----------` |
 
 ---
 
@@ -176,7 +176,7 @@ ls -la /home/mrb3n/
 cat /home/mrb3n/user.txt
 ```
 
-**User Flag:** `7002d65b149b0a4d19132a66feed21d8` ✅
+**User Flag:** `------------------` ✅
 
 ---
 
@@ -216,7 +216,7 @@ root@gettingstarted:/var/www/html/theme#
 cat /root/root.txt
 ```
 
-**Root Flag:** `f1fba6e9f71efb2630e6e34da6387842` ✅
+**Root Flag:** `---------------` ✅
 
 ---
 
